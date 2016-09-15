@@ -1,2 +1,0 @@
-# ThumbUp
-Rate my post

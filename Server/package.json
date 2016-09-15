@@ -9,6 +9,7 @@
   "author": "Jaufret",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.14.0",
     "mysql2": "^1.0.0-rc.13",
     "sequelize": "^3.24.3"
   }
